@@ -1,4 +1,4 @@
-class Group extends react.exports.Component {
+class Chart extends exports.Component {
   render() {
     var person1 = {
       x: ["Jul", "Aug", "Sep", "Oct", "Nov"],
